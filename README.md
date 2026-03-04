@@ -76,7 +76,3 @@ python app.py
 * Formatta un post pronto per LinkedIn.
 
 ---
-
-**Nota per l'ambiente aziendale:** Se la rotellina di caricamento in AI Studio si blocca, prova a generare la chiave da un dispositivo non collegato alla rete ufficio (es. smartphone) e caricala manualmente nello script.
-
-```
